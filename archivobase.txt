@@ -1,2 +1,15 @@
 primera base Josué.
+<<<<<<< HEAD
 primera modificación Sara.
+=======
+<<<<<<< HEAD
+Hola Chicos - cambiado por vaneza
+=======
+<<<<<<< HEAD
+
+Cinthya Condori
+=======
+segunda base Maria.
+>>>>>>> 265d212df5c6dd4d2b18272e36f78b87199c3362
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
