@@ -1,3 +1,7 @@
 primera base Josué.
+<<<<<<< HEAD
 
 Cinthya Condori
+=======
+segunda base Maria.
+>>>>>>> 265d212df5c6dd4d2b18272e36f78b87199c3362
