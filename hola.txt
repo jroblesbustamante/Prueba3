@@ -2,8 +2,14 @@ hola mundo!.
 Cambio Sara!
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Cambio Cinthya!
 =======
+=======
+Cambio 2 Sara!
+=======
+<<<<<<< HEAD
+>>>>>>> f493a39182589a524098390f2a7aaeecfd42e372
 Cambio Oscar!
 Nuevo cambio Vaneza Ortiz!!!!
 
