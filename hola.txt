@@ -1,11 +1,21 @@
 hola mundo!.
 Cambio Sara!
 <<<<<<< HEAD
+<<<<<<< HEAD
 Cambio Cinthya!
+=======
+Cambio Oscar!
+Nuevo cambio Vaneza Ortiz!!!!
+
+>>>>>>> 2d9e522075452951ff8082e9b007e52afa3452ec
 =======
 <<<<<<< HEAD
 Cambio Maria!
 =======
 Nuevo cambio Vaneza Ortiz!!!!
 >>>>>>> 23574e85e0ac34485f710287b79a058d7ccaa090
+<<<<<<< HEAD
 >>>>>>> d8fa4cf2cfe6d92ea22f7f411b2572ce53a29d0c
+=======
+>>>>>>> refs/remotes/origin/master
+>>>>>>> 2d9e522075452951ff8082e9b007e52afa3452ec
